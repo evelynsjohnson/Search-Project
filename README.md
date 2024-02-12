@@ -12,4 +12,4 @@
       - Processes the search query using set operations (union, intersection, difference) on the index.
       - Returns a set of web links that match the search query.
         
-2. Creating test cases (search_test.cpp), testing for null inputs, non-alpha characters, incorrect inputs or filenames, and other edge case.
+2. Creating test cases (search_test.cpp), testing for null inputs, non-alpha characters, incorrect inputs or filenames, and other edge cases.
